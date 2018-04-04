@@ -1,4 +1,4 @@
-package com.xsj.demo.echo;
+package com.xsj.demo.http;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.buffer.ByteBuf;
